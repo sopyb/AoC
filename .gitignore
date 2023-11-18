@@ -4,6 +4,7 @@
 
 # all build files
 **/cmake-build-*
+**/build
 **/dist
 
 # modules

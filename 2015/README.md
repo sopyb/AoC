@@ -1,3 +1,21 @@
+# How to run
+## Windows
+> To Be Added (Unless I forget)
+
+## Linux
+```bash
+# Building
+cd day_XX # Replace XX with day number
+mkdir build && cd build
+cmake ..
+make
+# Running
+./day_XX_partY # Replace XX with day number and Y with part number
+```
+
+## Mac
+> Contributions welcome
+
 # Solution Time
 
 Time format: `mm:ss.ms`
