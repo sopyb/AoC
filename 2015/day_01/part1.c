@@ -2,8 +2,8 @@
 
 // solution time: 2:56.8 (mm:ss.ms)
 int main() {
-    // open part1.in
-    FILE *fp = fopen("part1.in", "r");
+    // open input.in
+    FILE *fp = fopen("input.in", "r");
 
     // read input
     char c;
@@ -12,7 +12,7 @@ int main() {
         if (c == '(') floor++;
         else floor--;
 
-    // close part1.in
+    // close input.in
     fclose(fp);
 
     // print answer

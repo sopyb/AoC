@@ -9,6 +9,7 @@ cd day_XX # Replace XX with day number
 mkdir build && cd build
 cmake ..
 make
+
 # Running
 ./day_XX_partY # Replace XX with day number and Y with part number
 ```
@@ -23,7 +24,6 @@ Time format: `mm:ss.ms`
   - [x] [Part 1](day_01/part1.c) (2:56.8)
   - [x] [Part 2](day_01/part2.c) (0:55.5)
   - Other files:
-    - [Part1 input](day_01/part1.in)
-    - [Part2 input](day_01/part2.in)
+    - [input](day_01/input.in)
     - [CmakeLists.txt](day_01/CMakeLists.txt)
 - 
