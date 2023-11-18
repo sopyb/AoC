@@ -1,0 +1,10 @@
+# all IDE files
+**/.idea
+**/.vscode
+
+# all build files
+**/cmake-build-*
+**/dist
+
+# modules
+**/node_modules
