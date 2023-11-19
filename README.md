@@ -9,7 +9,7 @@ comfortable with.
 > **Note:** I will be leaving comments with my mistakes they'll be formatted something like `// ! (content)`.
 
 ## Status
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 (1%)
+🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (1%)
 
 **Total: 2/200**
 
