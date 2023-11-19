@@ -6,12 +6,14 @@ showcasing a variety of programming languages each year.
 Languages I chose are languages I want to learn or languages I want to get more
 comfortable with.
 
+> **Note:** I will be leaving comments with my mistakes they'll be formatted something like `// ! (content)`.
+
 ## Status
-🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 (0%)
+🟥🟥🟥🟥🟥🟥🟥🟥🟥🟥 (1%)
 
-**Total: 0/200**
+**Total: 2/200**
 
-- **2015**: In Progress 🚧 (0/25)
+- **[2015](2015/README.md)**: In Progress 🚧 (2/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - ???
     - **Total Time:** 0h 0m
