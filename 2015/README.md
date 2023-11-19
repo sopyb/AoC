@@ -20,21 +20,21 @@ make
 # Solution Time
 
 Time format: `mm:ss.ms`
-- [x] Day 1 (3:52.3) 
-  - [x] [Part 1](day_01/part1.c) (2:56.8)
-  - [x] [Part 2](day_01/part2.c) (0:55.5)
+- [x] Day 1 (3:52.30) 
+  - [x] [Part 1](day_01/part1.c) (2:56.80)
+  - [x] [Part 2](day_01/part2.c) (0:55.50)
   - Other files:
     - [input](day_01/input.in)
     - [CmakeLists.txt](day_01/CMakeLists.txt)
-- [x] Day 2 (27:36.0)
-  - [x] [Part 1](day_02/part1.c) (3:25.1) 
-  - [x] [Part 2](day_02/part2.c) (24:10.9)
+- [x] Day 2 (27:36.00)
+  - [x] [Part 1](day_02/part1.c) (3:25.10) 
+  - [x] [Part 2](day_02/part2.c) (24:10.90)
   - Other files:
     - [input](day_02/input.in)
     - [CmakeLists.txt](day_02/CMakeLists.txt)
-- [ ] Day 3 (Not Started)
-  - [ ] [Part 1](day_03/part1.c) (Not Started)
-  - [ ] [Part 2](day_03/part2.c) (Not Started)
+- [ ] Day 3 (23:42.19)
+  - [ ] [Part 1](day_03/part1.c) (18:09.99)
+  - [ ] [Part 2](day_03/part2.c) (5:32.20)
   - Other files:
     - [input](day_03/input.in)
     - [CmakeLists.txt](day_03/CMakeLists.txt)
