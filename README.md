@@ -9,9 +9,9 @@ comfortable with.
 > **Note:** I will be leaving comments with my mistakes they'll be formatted something like `// ! (content)`.
 
 ## Status
-🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (1%)
+🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (2.5%)
 
-**Total: 3/200**
+**Total: 5/200**
 
 - **[2015](2015/README.md)**: In Progress 🚧 (2/25)
     - **Language:** C

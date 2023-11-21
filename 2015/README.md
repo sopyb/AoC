@@ -38,15 +38,15 @@ Time format: `mm:ss.ms`
   - Other files:
     - [input](day_03/input.in)
     - [CmakeLists.txt](day_03/CMakeLists.txt)
-- [ ] Day 4 (Not Started)
-  - [ ] [Part 1](day_04/part1.c) (Not Started)
-  - [ ] [Part 2](day_04/part2.c) (Not Started)
+- [ ] Day 4 (30:33.80)
+  - [ ] [Part 1](day_04/part1.c) (29:56.78)
+  - [ ] [Part 2](day_04/part2.c) (0:37.02)
   - Other files:
     - [input](day_04/input.in)
     - [CmakeLists.txt](day_04/CMakeLists.txt)
-- [ ] Day 5 (Not Started)
-  - [ ] [Part 1](day_05/part1.c) (Not Started)
-  - [ ] [Part 2](day_05/part2.c) (Not Started)
+- [ ] Day 5 (12:41.44)
+  - [ ] [Part 1](day_05/part1.c) (7:12.83)
+  - [ ] [Part 2](day_05/part2.c) (5:28.61)
   - Other files:
     - [input](day_05/input.in)
     - [CmakeLists.txt](day_05/CMakeLists.txt)
