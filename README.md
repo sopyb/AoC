@@ -7,13 +7,15 @@ Languages I chose are languages I want to learn or languages I want to get more
 comfortable with.
 
 > **Note:** I will be leaving comments with my mistakes they'll be formatted something like `// ! (content)`.
+> 
+> Also I will be leaving clarification/note comments they'll be formatted something like `// ? (content)`
 
 ## Status
-🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (2.5%)
+🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (3%)
 
-**Total: 5/200**
+**Total: 6/200**
 
-- **[2015](2015/README.md)**: In Progress 🚧 (2/25)
+- **[2015](2015/README.md)**: In Progress 🚧 (6/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - ???
     - **Total Time:** 0h 0m
