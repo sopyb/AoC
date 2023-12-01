@@ -56,9 +56,9 @@ Time format: `mm:ss.ms`
   - Other files:
     - [input](day_06/input.in)
     - [CmakeLists.txt](day_06/CMakeLists.txt)
-- [ ] Day 7 (Not Started)
-  - [ ] [Part 1](day_07/part1.c) (Not Started)
-  - [ ] [Part 2](day_07/part2.c) (Not Started)
+- [x] Day 7 (~6h)
+  - [x] [Part 1](day_07/part1.c) (?)
+  - [x] [Part 2](day_07/part2.c) (?)
   - Other files:
     - [input](day_07/input.in)
     - [CmakeLists.txt](day_07/CMakeLists.txt)

@@ -11,9 +11,9 @@ comfortable with.
 > Also I will be leaving clarification/note comments they'll be formatted something like `// ? (content)`
 
 ## Status
-🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (3.5%)
+🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (4%)
 
-**Total: 7/200**
+**Total: 8/200**
 
 - **[2015](2015/README.md)**: In Progress 🚧 (7/25)
     - **Language:** C
