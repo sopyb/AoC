@@ -11,11 +11,10 @@ comfortable with.
 > Also I will be leaving clarification/note comments they'll be formatted something like `// ? (content)`
 
 ## Status
-<progress value="9" max="200" width="100%"></progress>
 
-**Total: 9/200** (4.5%)
+**Total:** ![10/200](https://progress-bar.dev/10/?scale=200&width=200&suffix=/200)
 
-- **[2015](2015/README.md)**: In Progress 🚧 (8/25)
+- **[2015](2015/README.md)**: In Progress 🚧 (9/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - ???
     - **Total Time:** 0h 0m
