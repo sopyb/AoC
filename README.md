@@ -11,11 +11,11 @@ comfortable with.
 > Also I will be leaving clarification/note comments they'll be formatted something like `// ? (content)`
 
 ## Status
-🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (4%)
+<progress value="9" max="200" width="100%"></progress>
 
-**Total: 8/200**
+**Total: 9/200** (4.5%)
 
-- **[2015](2015/README.md)**: In Progress 🚧 (7/25)
+- **[2015](2015/README.md)**: In Progress 🚧 (8/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - ???
     - **Total Time:** 0h 0m
@@ -55,7 +55,7 @@ comfortable with.
     - **Period:** ??? - ???
     - **Total Time:** 0h 0m
     - **Reasoning:** ???
-- **2023**: In Progress 🚧 (1/25)
+- **[2023](2023/README.md)**: In Progress 🚧 (1/25)
     - **Language:** Rust
     - **Period:** 1-December-2023 - ???
     - **Total Time:** 0h 0m
