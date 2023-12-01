@@ -11,11 +11,11 @@ comfortable with.
 > Also I will be leaving clarification/note comments they'll be formatted something like `// ? (content)`
 
 ## Status
-🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (3%)
+🟨🟥🟥🟥🟥🟥🟥🟥🟥🟥 (3.5%)
 
-**Total: 6/200**
+**Total: 7/200**
 
-- **[2015](2015/README.md)**: In Progress 🚧 (6/25)
+- **[2015](2015/README.md)**: In Progress 🚧 (7/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - ???
     - **Total Time:** 0h 0m
@@ -55,9 +55,9 @@ comfortable with.
     - **Period:** ??? - ???
     - **Total Time:** 0h 0m
     - **Reasoning:** ???
-- **2023**: Hasn't Begun Yet 🤷‍♂️ (0/25)
-    - **Language:** Rust (maybe)
-    - **Period:** ??? - ???
+- **2023**: In Progress 🚧 (1/25)
+    - **Language:** Rust
+    - **Period:** 1-December-2023 - ???
     - **Total Time:** 0h 0m
     - **Reasoning:** I know some Rust, but I'm not very good at it. I want to get better at it. But I'd like to not embarrass myself too much.
 
