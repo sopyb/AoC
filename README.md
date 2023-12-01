@@ -12,7 +12,7 @@ comfortable with.
 
 ## Status
 
-**Total:** ![10/200](https://progress-bar.dev/10/?scale=200&width=200&suffix=/200)
+**Total:** ![10/200](https://progress-bar.dev/10/?scale=200&width=200&suffix=/200 "Progress")
 
 - **[2015](2015/README.md)**: In Progress 🚧 (9/25)
     - **Language:** C
