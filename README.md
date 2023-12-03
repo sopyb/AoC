@@ -12,7 +12,7 @@ comfortable with.
 
 ## Status
 
-**Total:** ![10/200](https://progress-bar.dev/11/?scale=200&width=200&suffix=/200 "Progress")
+**Total:** ![12/200](https://progress-bar.dev/12/?scale=200&width=200&suffix=/200 "Progress")
 
 - **[2015](2015/README.md)**: In Progress 🚧 (9/25)
     - **Language:** C
@@ -54,7 +54,7 @@ comfortable with.
     - **Period:** ??? - ???
     - **Total Time:** 0h 0m
     - **Reasoning:** ???
-- **[2023](2023/README.md)**: In Progress 🚧 (2/25)
+- **[2023](2023/README.md)**: In Progress 🚧 (3/25)
     - **Language:** Rust
     - **Period:** 1-December-2023 - ???
     - **Total Time:** 0h 0m
