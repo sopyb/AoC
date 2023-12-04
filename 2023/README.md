@@ -28,3 +28,10 @@ Time format: `hh:mm:ss`
   - Other files:
     - [input](day_03/src/input.in)
     - [Cargo.toml](day_03/Cargo.toml)
+- [x] Day 4 (00:11:03)
+  - [x] [Part 1](day_04/src/part1.rs) (00:04:07) 
+  - [x] [Part 2](day_04/src/part2.rs) (00:06:56)
+  - [x] [Combined](day_04/src/combined.rs) (Not timed)
+  - Other files:
+    - [input](day_04/src/input.in)
+    - [Cargo.toml](day_04/Cargo.toml)
