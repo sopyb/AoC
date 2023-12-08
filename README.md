@@ -12,9 +12,9 @@ comfortable with.
 
 ## Status
 
-**Total:** (11.5%) ![23/200](https://progress-bar.dev/23/?scale=200&width=200&suffix=/200 "Progress")
+**Total:** 12% ![24/200](https://progress-bar.dev/24/?scale=200&width=200&suffix=/200 "Progress")
 
-- **[2015](2015/README.md)**: In Progress 🚧 (15/25)
+- **[2015](2015/README.md)**: In Progress 🚧 (16/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - ???
     - **Total Time:** 0h 0m
