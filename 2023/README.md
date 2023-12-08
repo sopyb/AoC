@@ -49,3 +49,18 @@ Time format: `hh:mm:ss`
   - Other files:
     - [input](day_06/src/input.in)
     - [Cargo.toml](day_06/Cargo.toml)
+- [X] Day 7 (00:44:09)
+  - [x] [Part 1](day_07/src/part1.rs) (00:43:46)
+  - [x] [Part 2](day_07/src/part2.rs) (00:00:23)
+  - [x] [Combined](day_07/src/combined.rs) (Not timed)
+  - Other files:
+    - [input](day_07/src/input.in)
+    - [Cargo.toml](day_07/Cargo.toml)
+- [X] Day 8 (00:22:55)
+  - I slept too much
+  - [x] [Part 1](day_08/src/part1.rs) (00:21:30)
+  - [x] [Part 2](day_08/src/part2.rs) (00:01:25)
+  - [x] [Combined](day_08/src/combined.rs) (Not timed)
+  - Other files:
+    - [input](day_08/src/input.in)
+    - [Cargo.toml](day_08/Cargo.toml)
