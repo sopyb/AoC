@@ -87,6 +87,7 @@ Time format: `mm:ss.ms`
     - [input](day_11/input.in)
     - [CmakeLists.txt](day_11/CMakeLists.txt)
 - [x] Day 12 (11:39.10)
+  - You need to install Jansson. I provided install instructions for Debian/Ubuntu, Fedora, and Arch Linux and MacOS brew at the top of the [CMakeLists.txt](day_12/CMakeLists.txt) file. On Windows, you're on your own.
   - [x] [Part 1](day_12/part1.c) (08:37.60)
   - [x] [Part 2](day_12/part2.c) (03:01.50)
   - Other files:

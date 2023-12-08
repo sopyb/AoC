@@ -1,3 +1,9 @@
+# ! This needs the janosson library
+# ! Debian/Ubuntu: sudo apt-get install libjansson-dev
+# ! Fedora:        sudo dnf install jansson-devel
+# ! Arch Linux:    sudo pacman -S jansson
+# ! macOS:         brew install jansson
+
 cmake_minimum_required(VERSION 3.26)
 project(day_12 C)
 
