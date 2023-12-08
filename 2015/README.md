@@ -124,3 +124,9 @@ Time format: `mm:ss.ms`
   - Other files:
     - [input](day_17/input.in)
     - [CmakeLists.txt](day_17/CMakeLists.txt)
+- [x] Day 18 (06:08.40)
+  - [x] [Part 1](day_18/part1.c) (04:20.50)
+  - [x] [Part 2](day_18/part2.c) (01:47.90)
+  - Other files:
+    - [input](day_18/input.in)
+    - [CmakeLists.txt](day_18/CMakeLists.txt)
