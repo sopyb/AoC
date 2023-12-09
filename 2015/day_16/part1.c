@@ -4,16 +4,16 @@
 
 // solution time: 10:21.20
 typedef struct {
-    int children;
-    int cats;
-    int samoyeds;
-    int pomeranians;
-    int akitas;
-    int vizslas;
-    int goldfish;
-    int trees;
-    int cars;
-    int perfumes;
+    int *children;
+    int *cats;
+    int *samoyeds;
+    int *pomeranians;
+    int *akitas;
+    int *vizslas;
+    int *goldfish;
+    int *trees;
+    int *cars;
+    int *perfumes;
 } Sue;
 
 int main() {
@@ -31,43 +31,39 @@ int main() {
 
     int sue_count = 0;
 
+    char *token = strtok(line, " :\n");  // split the line into tokens
     while (fgets(line, sizeof(line), fp) != NULL) {
-        Sue sue = {0};  // initialize all properties to 0
+        Sue sue = {NULL};  // initialize all properties to NULL
 
         char *token = strtok(line, " :\n");  // split the line into tokens
         while (token != NULL) {
             if (strcmp(token, "Sue") == 0) {
                 token = strtok(NULL, " :\n");  // skip the Sue number
-            } else if (strcmp(token, "children") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.children = atoi(token);
-            } else if (strcmp(token, "cats") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.cats = atoi(token);
-            } else if (strcmp(token, "samoyeds") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.samoyeds = atoi(token);
-            } else if (strcmp(token, "pomeranians") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.pomeranians = atoi(token);
-            } else if (strcmp(token, "akitas") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.akitas = atoi(token);
-            } else if (strcmp(token, "vizslas") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.vizslas = atoi(token);
-            } else if (strcmp(token, "goldfish") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.goldfish = atoi(token);
-            } else if (strcmp(token, "trees") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.trees = atoi(token);
-            } else if (strcmp(token, "cars") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.cars = atoi(token);
-            } else if (strcmp(token, "perfumes") == 0) {
-                token = strtok(NULL, " :\n");
-                sue.perfumes = atoi(token);
+            } else {
+                int *value = malloc(sizeof(int));
+                *value = atoi(strtok(NULL, " :\n"));
+
+                if (strcmp(token, "children") == 0) {
+                    sue.children = value;
+                } else if (strcmp(token, "cats") == 0) {
+                    sue.cats = value;
+                } else if (strcmp(token, "samoyeds") == 0) {
+                    sue.samoyeds = value;
+                } else if (strcmp(token, "pomeranians") == 0) {
+                    sue.pomeranians = value;
+                } else if (strcmp(token, "akitas") == 0) {
+                    sue.akitas = value;
+                } else if (strcmp(token, "vizslas") == 0) {
+                    sue.vizslas = value;
+                } else if (strcmp(token, "goldfish") == 0) {
+                    sue.goldfish = value;
+                } else if (strcmp(token, "trees") == 0) {
+                    sue.trees = value;
+                } else if (strcmp(token, "cars") == 0) {
+                    sue.cars = value;
+                } else if (strcmp(token, "perfumes") == 0) {
+                    sue.perfumes = value;
+                }
             }
 
             token = strtok(NULL, " :\n");  // get the next token
@@ -82,43 +78,43 @@ int main() {
     for (int i = 0; i < sue_count; i++) {
         Sue sue = sues[i];
 
-        if (sue.children && sue.children != 3) {
+        if (sue.children && *sue.children != 3) {
             continue;
         }
 
-        if (sue.cats && sue.cats != 7) {
+        if (sue.cats && *sue.cats < 7) {
             continue;
         }
 
-        if (sue.samoyeds && sue.samoyeds != 2) {
+        if (sue.samoyeds && *sue.samoyeds != 2) {
             continue;
         }
 
-        if (sue.pomeranians && sue.pomeranians != 3) {
+        if (sue.pomeranians && *sue.pomeranians > 3) {
             continue;
         }
 
-        if (sue.akitas && sue.akitas != 0) {
+        if (sue.akitas && *sue.akitas != 0) {
             continue;
         }
 
-        if (sue.vizslas && sue.vizslas != 0) {
+        if (sue.vizslas && *sue.vizslas != 0) {
             continue;
         }
 
-        if (sue.goldfish && sue.goldfish != 5) {
+        if (sue.goldfish && *sue.goldfish >= 5) {
             continue;
         }
 
-        if (sue.trees && sue.trees != 3) {
+        if (sue.trees && *sue.trees <= 3) {
             continue;
         }
 
-        if (sue.cars && sue.cars != 2) {
+        if (sue.cars && *sue.cars != 2) {
             continue;
         }
 
-        if (sue.perfumes && sue.perfumes != 1) {
+        if (sue.perfumes && *sue.perfumes != 1) {
             continue;
         }
 
