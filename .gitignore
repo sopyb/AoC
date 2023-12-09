@@ -2,6 +2,9 @@
 **/.idea
 **/.vscode
 
+# all input files
+**/*.in
+
 # all build files
 **/cmake-build-*
 **/target
