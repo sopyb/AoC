@@ -57,7 +57,7 @@ fn main() {
     let mut data_rows = Vec::new();
     let mut memoization = HashMap::new();
 
-    for line in lines {
+    for line in &lines {
         let parts: Vec<&str> = line.split_whitespace().collect();
         let springs = parts[0].chars().collect();
         let groups: Vec<u128> = parts[1].split(',').map(|s| s.parse().unwrap()).collect();
@@ -68,15 +68,21 @@ fn main() {
 
     println!("Part1: {}", total);
 
-    data_rows.map(|(springs, groups)| {
+    data_rows.clear();
+
+    for line in lines {
+        let parts: Vec<&str> = line.split_whitespace().collect();
+        let springs: Vec<&str> = parts[0].split('?').collect();
+        let groups: Vec<&str> = parts[1].split(',').collect();
+
         let new_springs: String = springs.iter().cycle().take(springs.len() * 5).cloned().collect::<Vec<&str>>().join("?");
         let new_groups: String = groups.iter().cycle().take(groups.len() * 5).cloned().collect::<Vec<&str>>().join(",");
 
         let springs_chars: Vec<char> = new_springs.chars().collect();
         let groups_int: Vec<u128> = new_groups.split(',').map(|s| s.parse().unwrap()).collect();
 
-        (springs_chars, groups_int)
-    }).collect::<Vec<(Vec<char>, Vec<u128>)>>();
+        data_rows.push((springs_chars, groups_int));
+    }
 
     let total: u128 = data_rows.iter().map(|(springs, groups)| calculate_solutions(springs, groups, &mut memoization)).sum();
     println!("Part2: {}", total);
