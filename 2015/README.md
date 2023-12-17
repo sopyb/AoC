@@ -56,7 +56,7 @@ Time format: `mm:ss.ms`
   - Other files:
     - [input](day_06/input.in)
     - [CmakeLists.txt](day_06/CMakeLists.txt)
-- [x] Day 7 (~6h)
+- [x] Day 7 (~6:00:00.00)
   - [x] [Part 1](day_07/part1.c) (?)
   - [x] [Part 2](day_07/part2.c) (?)
   - Other files:
@@ -103,30 +103,30 @@ Time format: `mm:ss.ms`
   - [x] [Part 1](day_14/part1.c) (04:01.70)
   - [x] [Part 2](day_14/part2.c) (02:15.00)
   - Other files:
-    - [input](day_14/input.in)
     - [CmakeLists.txt](day_14/CMakeLists.txt)
 - [x] Day 15 (04:32.90)
   - [x] [Part 1](day_15/part1.c) (03:32.80)
   - [x] [Part 2](day_15/part2.c) (01:00.10)
   - Other files:
-    - [input](day_15/input.in)
     - [CmakeLists.txt](day_15/CMakeLists.txt)
 - [x] Day 16 (16:55.20)
   - [x] [Part 1](day_16/part1.c) (10:21.20)
   - [x] [Part 2](day_16/part2.c) (06:34.00)
-    - It might be wrong. Read the comment at the top of the file
   - Other files:
-    - [input](day_16/input.in)
     - [CmakeLists.txt](day_16/CMakeLists.txt
 - [x] Day 17 (08:57.10)
   - [x] [Part 1](day_17/part1.c) (02:53.30)
   - [x] [Part 2](day_17/part2.c) (06:03.80)
   - Other files:
-    - [input](day_17/input.in)
     - [CmakeLists.txt](day_17/CMakeLists.txt)
 - [x] Day 18 (06:08.40)
   - [x] [Part 1](day_18/part1.c) (04:20.50)
   - [x] [Part 2](day_18/part2.c) (01:47.90)
   - Other files:
-    - [input](day_18/input.in)
     - [CmakeLists.txt](day_18/CMakeLists.txt)
+- [x] Day 19 (~5h)
+  - Make sure to run ./setup.sh or ./setup.ps1 (linux/windows) to download uthash.
+  - [x] [Part 1](day_19/part1.c) (~5h)
+  - [x] [Part 2](day_19/part2.c) (11:37.27)
+  - Other files:
+    - [CmakeLists.txt](day_19/CMakeLists.txt)
