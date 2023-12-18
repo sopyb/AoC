@@ -114,7 +114,7 @@ Time format: `mm:ss.ms`
   - [x] [Part 1](day_16/part1.c) (10:21.20)
   - [x] [Part 2](day_16/part2.c) (06:34.00)
   - Other files:
-    - [CmakeLists.txt](day_16/CMakeLists.txt
+    - [CmakeLists.txt](day_16/CMakeLists.txt)
 - [x] Day 17 (08:57.10)
   - [x] [Part 1](day_17/part1.c) (02:53.30)
   - [x] [Part 2](day_17/part2.c) (06:03.80)
