@@ -17,7 +17,8 @@ make
 ## Mac
 > Contributions welcome
 
-# Solution Time
+# Solution Time Breakdown
+Total time: 16h 1m
 
 Time format: `mm:ss.ms`
 - [x] Day 1 (3:52.30) 
@@ -56,7 +57,7 @@ Time format: `mm:ss.ms`
   - Other files:
     - [input](day_06/input.in)
     - [CmakeLists.txt](day_06/CMakeLists.txt)
-- [x] Day 7 (~6:00:00.00)
+- [x] Day 7 (~6h)
   - [x] [Part 1](day_07/part1.c) (?)
   - [x] [Part 2](day_07/part2.c) (?)
   - Other files:

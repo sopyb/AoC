@@ -12,12 +12,12 @@ comfortable with.
 
 ## Status
 
-**Total:** 15.5% ![31/200](https://progress-bar.dev/31/?scale=200&width=200&suffix=/200 "Progress")
+**Total:** 18% ![36/200](https://progress-bar.dev/36/?scale=200&width=200&suffix=/200 "Progress")
 
-- **[2015](2015/README.md)**: In Progress 🚧 (20/25)
+- **[2015](2015/README.md)**: Snow falls 🌨️ (25/25)
     - **Language:** C
-    - **Period:** 18-Nov-2023 - ???
-    - **Total Time:** 0h 0m
+    - **Period:** 18-Nov-2023 - 18-Dec-2023
+    - **Total Time:** 16h 1m
     - **Reasoning:** I'm using C in university, so it's better if I get more comfortable with it.
 - **2016**: Not Started ❌ (0/25)
     - **Language:** Python
