@@ -130,3 +130,8 @@ Time format: `mm:ss.ms`
   - [x] [Part 2](day_19/part2.c) (11:37.27)
   - Other files:
     - [CmakeLists.txt](day_19/CMakeLists.txt)
+- [x] Day 20 (06:47.35)
+  - [x] [Part 1](day_20/part1.c) (05:56.22)
+  - [x] [Part 2](day_20/part2.c) (00:51.13)
+  - Other files:
+    - [CmakeLists.txt](day_20/CMakeLists.txt)
