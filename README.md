@@ -19,11 +19,11 @@ comfortable with.
     - **Period:** 18-Nov-2023 - 18-Dec-2023
     - **Total Time:** 16h 1m
     - **Reasoning:** I'm using C in university, so it's better if I get more comfortable with it.
-- **2016**: Not Started ❌ (0/25)
+- **2016**: In Progress 🚧 (0/25)
     - **Language:** Python
-    - **Period:** ??? - ???
+    - **Period:** 19-Dec-2023 - ???
     - **Total Time:** 0h 0m
-    - **Reasoning:** ???
+    - **Reasoning:** Why not complete 2016 with the language I have a burning hatred for? Sounds like fun. 😢
 - **2017**: Not Started ❌ (0/25)
     - **Language:** ???
     - **Period:** ??? - ???
