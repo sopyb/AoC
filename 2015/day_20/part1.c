@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// solution time: 05:56.22 (hh:mm.ss)
+// solution time: 05:56.22 (mm:ss.ms)
 int main() {
     FILE *fp;
     fp = fopen("input.in", "r");
