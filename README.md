@@ -12,18 +12,20 @@ comfortable with.
 
 ## Status
 
-**Total:** 18% ![36/200](https://progress-bar.dev/36/?scale=200&width=200&suffix=/200 "Progress")
+**Total:** 30.5% ![61/200](https://progress-bar.dev/61/?scale=200&width=200&suffix=/200 "Progress")
 
 - **[2015](2015/README.md)**: Snow falls 🌨️ (25/25)
     - **Language:** C
     - **Period:** 18-Nov-2023 - 18-Dec-2023
     - **Total Time:** 16h 1m
     - **Reasoning:** I'm using C in university, so it's better if I get more comfortable with it.
-- **2016**: In Progress 🚧 (0/25)
+    - **Conclusion:** This was the biggest energy drain in a while. I learned a lot about C... I don't want to touch C for a while.
+- **[2016](2016/README.md)**: Snow falls 🌨️ (25/25)
     - **Language:** Python
-    - **Period:** 19-Dec-2023 - ???
-    - **Total Time:** 0h 0m
+    - **Period:** 19-Dec-2023 - 14-Feb-2024
+    - **Total Time:** 03h 20m 59s
     - **Reasoning:** Why not complete 2016 with the language I have a burning hatred for? Sounds like fun. 😢
+    - **Conclusion:** I still hate Python. But I can't deny it's power. >.>
 - **2017**: Not Started ❌ (0/25)
     - **Language:** ???
     - **Period:** ??? - ???
