@@ -1,7 +1,4 @@
-OBTW
-WHY IS IT SO HARD TO READ A FILE IN THIS LANGUAGE, I JUST GAVE UP
-TIME 00:50:52
-TLDR
+BTW TIME 00:01:45
 HAI 1.4
 
 CAN HAS STDIO?
@@ -17,21 +14,24 @@ BTW Get the length of the input
 I HAS A length
 length R I IZ STRING'Z LEN YR input MKAY
 
+BTW Calculate the halfway point
+I HAS A halfway ITZ QUOSHUNT OF length AN 2
+
 BTW Iterate through the input sequence
 I HAS A i ITZ 0
 IM IN YR LOOP
     BTW Get the current digit
     I HAS A current_digit ITZ I IZ STRING'Z AT YR input AN YR i MKAY
 
-    BTW Get the next index (circular)
-    I HAS A next_index ITZ SUM OF i AN 1
-    next_index R MOD OF next_index AN length
+    BTW Get the halfway index (circular)
+    I HAS A halfway_index ITZ SUM OF i AN halfway
+    halfway_index R MOD OF halfway_index AN length
 
-    BTW Get the next digit
-    I HAS A next_digit ITZ I IZ STRING'Z AT YR input AN YR next_index MKAY
+    BTW Get the halfway digit
+    I HAS A halfway_digit ITZ I IZ STRING'Z AT YR input AN YR halfway_index MKAY
 
-    BTW Compare the current digit with the next digit
-    BOTH SAEM current_digit AN next_digit, O RLY?
+    BTW Compare the current digit with the halfway digit
+    BOTH SAEM current_digit AN halfway_digit, O RLY?
         YA RLY
             BTW Add the current digit to the sum
             sum R SUM OF sum AN current_digit
