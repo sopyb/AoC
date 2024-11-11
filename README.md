@@ -12,7 +12,7 @@ comfortable with.
 
 ## Status
 
-**Total:** 30.5% ![61/200](https://progress-bar.dev/61/?scale=200&width=200&suffix=/200 "Progress")
+**Total completed:** ![61/225](https://progress-bar.xyz//61/?scale=225&width=200&suffix=/225 "Progress")
 
 - **[2015](2015/README.md)**: Snow falls 🌨️ (25/25)
     - **Language:** C
@@ -26,11 +26,11 @@ comfortable with.
     - **Total Time:** 03h 20m 59s
     - **Reasoning:** Why not complete 2016 with the language I have a burning hatred for? Sounds like fun. 😢
     - **Conclusion:** I still hate Python. But I can't deny it's power. >.>
-- **2017**: Not Started ❌ (0/25)
-    - **Language:** ???
-    - **Period:** ??? - ???
+- **[2017](2017/README.md)**: In Progress 🚧 (0/25)
+    - **Language:** LOLCODE
+    - **Period:** 11-Nov-2024 - ???
     - **Total Time:** 0h 0m
-    - **Reasoning:** ???
+    - **Reasoning:** Science isn't about WHY. It's about WHY NOT. (if I make more portal references istg)
 - **2018**: Not Started ❌ (0/25)
     - **Language:** ???
     - **Period:** ??? - ???
@@ -61,6 +61,11 @@ comfortable with.
     - **Period:** 1-December-2023 - ???
     - **Total Time:** 0h 0m
     - **Reasoning:** I know some Rust, but I'm not very good at it. I want to get better at it. But I'd like to not embarrass myself too much.
+- **2024**: Not Started ❌ (0/25)
+    - **Language:** ???
+    - **Period:** ??? - ???
+    - **Total Time:** 0h 0m
+    - **Reasoning:** ???
 
 ## Structure
 
